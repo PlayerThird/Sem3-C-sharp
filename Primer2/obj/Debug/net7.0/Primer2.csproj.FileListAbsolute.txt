@@ -1,0 +1,15 @@
+G:\GB\C#\Семинар 3\Primer2\bin\Debug\net7.0\Primer2.exe
+G:\GB\C#\Семинар 3\Primer2\bin\Debug\net7.0\Primer2.deps.json
+G:\GB\C#\Семинар 3\Primer2\bin\Debug\net7.0\Primer2.runtimeconfig.json
+G:\GB\C#\Семинар 3\Primer2\bin\Debug\net7.0\Primer2.dll
+G:\GB\C#\Семинар 3\Primer2\bin\Debug\net7.0\Primer2.pdb
+G:\GB\C#\Семинар 3\Primer2\obj\Debug\net7.0\Primer2.csproj.AssemblyReference.cache
+G:\GB\C#\Семинар 3\Primer2\obj\Debug\net7.0\Primer2.GeneratedMSBuildEditorConfig.editorconfig
+G:\GB\C#\Семинар 3\Primer2\obj\Debug\net7.0\Primer2.AssemblyInfoInputs.cache
+G:\GB\C#\Семинар 3\Primer2\obj\Debug\net7.0\Primer2.AssemblyInfo.cs
+G:\GB\C#\Семинар 3\Primer2\obj\Debug\net7.0\Primer2.csproj.CoreCompileInputs.cache
+G:\GB\C#\Семинар 3\Primer2\obj\Debug\net7.0\Primer2.dll
+G:\GB\C#\Семинар 3\Primer2\obj\Debug\net7.0\refint\Primer2.dll
+G:\GB\C#\Семинар 3\Primer2\obj\Debug\net7.0\Primer2.pdb
+G:\GB\C#\Семинар 3\Primer2\obj\Debug\net7.0\Primer2.genruntimeconfig.cache
+G:\GB\C#\Семинар 3\Primer2\obj\Debug\net7.0\ref\Primer2.dll
