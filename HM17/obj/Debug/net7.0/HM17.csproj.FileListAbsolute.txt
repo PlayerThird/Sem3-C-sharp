@@ -1,0 +1,15 @@
+G:\GB\C#\Семинар 3\HM17\obj\Debug\net7.0\HM17.csproj.AssemblyReference.cache
+G:\GB\C#\Семинар 3\HM17\obj\Debug\net7.0\HM17.GeneratedMSBuildEditorConfig.editorconfig
+G:\GB\C#\Семинар 3\HM17\obj\Debug\net7.0\HM17.AssemblyInfoInputs.cache
+G:\GB\C#\Семинар 3\HM17\obj\Debug\net7.0\HM17.AssemblyInfo.cs
+G:\GB\C#\Семинар 3\HM17\obj\Debug\net7.0\HM17.csproj.CoreCompileInputs.cache
+G:\GB\C#\Семинар 3\HM17\bin\Debug\net7.0\HM17.exe
+G:\GB\C#\Семинар 3\HM17\bin\Debug\net7.0\HM17.deps.json
+G:\GB\C#\Семинар 3\HM17\bin\Debug\net7.0\HM17.runtimeconfig.json
+G:\GB\C#\Семинар 3\HM17\bin\Debug\net7.0\HM17.dll
+G:\GB\C#\Семинар 3\HM17\bin\Debug\net7.0\HM17.pdb
+G:\GB\C#\Семинар 3\HM17\obj\Debug\net7.0\HM17.dll
+G:\GB\C#\Семинар 3\HM17\obj\Debug\net7.0\refint\HM17.dll
+G:\GB\C#\Семинар 3\HM17\obj\Debug\net7.0\HM17.pdb
+G:\GB\C#\Семинар 3\HM17\obj\Debug\net7.0\HM17.genruntimeconfig.cache
+G:\GB\C#\Семинар 3\HM17\obj\Debug\net7.0\ref\HM17.dll
