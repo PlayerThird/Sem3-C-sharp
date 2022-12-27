@@ -1,0 +1,13 @@
+﻿// Напишите программу, которая принимает 
+//на вход координаты двух точек и находит расстояние между ними в 3D пространстве.
+// A (3,6,8); B (2,1,-7), -> 15.84 
+// A (7,-5, 0); B (1,-1,9) -> 11.53
+internal partial class Program
+{
+    private static void Main(string[] args)
+    {
+        Coordinate a = new Coordinate("A");
+        Coordinate b = new Coordinate("B");
+        a.Dlinna(b);//Переменная А
+    }
+}

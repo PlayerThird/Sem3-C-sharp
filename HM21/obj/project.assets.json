@@ -1,0 +1,89 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "Standart/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Standart.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Standart.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Standart/1.0.0": {
+      "type": "project",
+      "path": "../Standart/Standart.csproj",
+      "msbuildProject": "../Standart/Standart.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "Standart >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Player Third\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "G:\\GB\\C#\\Семинар 3\\HM21\\HM21.csproj",
+      "projectName": "HM21",
+      "projectPath": "G:\\GB\\C#\\Семинар 3\\HM21\\HM21.csproj",
+      "packagesPath": "C:\\Users\\Player Third\\.nuget\\packages\\",
+      "outputPath": "G:\\GB\\C#\\Семинар 3\\HM21\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Player Third\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "G:\\GB\\C#\\Семинар 3\\Standart\\Standart.csproj": {
+              "projectPath": "G:\\GB\\C#\\Семинар 3\\Standart\\Standart.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
