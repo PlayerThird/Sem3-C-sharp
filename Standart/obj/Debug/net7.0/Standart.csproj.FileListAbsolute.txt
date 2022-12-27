@@ -1,0 +1,15 @@
+G:\GB\C#\Семинар 3\Standart\bin\Debug\net7.0\Standart.exe
+G:\GB\C#\Семинар 3\Standart\bin\Debug\net7.0\Standart.deps.json
+G:\GB\C#\Семинар 3\Standart\bin\Debug\net7.0\Standart.runtimeconfig.json
+G:\GB\C#\Семинар 3\Standart\bin\Debug\net7.0\Standart.dll
+G:\GB\C#\Семинар 3\Standart\bin\Debug\net7.0\Standart.pdb
+G:\GB\C#\Семинар 3\Standart\obj\Debug\net7.0\Standart.csproj.AssemblyReference.cache
+G:\GB\C#\Семинар 3\Standart\obj\Debug\net7.0\Standart.GeneratedMSBuildEditorConfig.editorconfig
+G:\GB\C#\Семинар 3\Standart\obj\Debug\net7.0\Standart.AssemblyInfoInputs.cache
+G:\GB\C#\Семинар 3\Standart\obj\Debug\net7.0\Standart.AssemblyInfo.cs
+G:\GB\C#\Семинар 3\Standart\obj\Debug\net7.0\Standart.csproj.CoreCompileInputs.cache
+G:\GB\C#\Семинар 3\Standart\obj\Debug\net7.0\Standart.dll
+G:\GB\C#\Семинар 3\Standart\obj\Debug\net7.0\refint\Standart.dll
+G:\GB\C#\Семинар 3\Standart\obj\Debug\net7.0\Standart.pdb
+G:\GB\C#\Семинар 3\Standart\obj\Debug\net7.0\Standart.genruntimeconfig.cache
+G:\GB\C#\Семинар 3\Standart\obj\Debug\net7.0\ref\Standart.dll
