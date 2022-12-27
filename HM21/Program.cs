@@ -6,8 +6,8 @@ internal partial class Program
 {
     private static void Main(string[] args)
     {
-        Coordinate a = new Coordinate("A");
-        Coordinate b = new Coordinate("B");
-        a.Dlinna(b);//Переменная А
+        Coordinate a = new Coordinate("A");//Записываем координаты А
+        Coordinate b = new Coordinate("B");//Записываем координаты Б
+        a.Dlinna(b);//От перемены a и b смысл не меняется, т.к. уравнение возводится в квадрат
     }
 }

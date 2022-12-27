@@ -17,7 +17,7 @@
                 Console.WriteLine("АЛЁРТ!, введите еще раз " + str);
                 strTest = Console.ReadLine()!;// ! чтобы не выводил жёлтый ворнинг
             }
-            return number;
+            return number;// возвращает число в виде int
         }
     }
 

@@ -17,5 +17,7 @@ public class Coordinate
         double d = Math.Sqrt(Math.Pow(this.X - b.X, 2) + Math.Pow(this.Y - b.Y, 2) + Math.Pow(this.Z - b.Z, 2));
         Console.Write($"{this.Name}({this.X},{this.Y},{this.Z}), {b.Name}({b.X},{b.Y},{b.Z})");
         Console.WriteLine($" --> {d:f2}");
+        //this.X это координата которая осталась в методе Coordinate
+        //b.X координата переданная из Coordinate записанная в переменную b
     }
 }
